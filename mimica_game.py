@@ -3,7 +3,7 @@ from PIL import Image
 import random
 import time
 
-IMAGE_PATH = r'C:\Users\HP\Desktop\mimica_game'
+IMAGE_PATH = r'C:\Users\HP\PycharmProjects\code_in_place_final_project\fotos'
 
 def main():
     """
